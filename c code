@@ -42,8 +42,8 @@ int main()
 				else printf(" ");
 			}
 			if(k<=(2*n-1-2*i)/2)
-			printf("@");
-			else printf("*");
+			printf("*");
+			else printf("@");
 		}
 		printf("\n");
 	}
